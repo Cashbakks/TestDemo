@@ -1,0 +1,15 @@
+{
+  "leftItems": [
+    { "id": "left_apple", "text": "Apple", "number": 17 },
+    { "id": "left_orange", "text": "Orange", "number": 4 },
+    { "id": "left_banana", "text": "Banana", "number": 29 },
+    { "id": "left_mango", "text": "Mango", "number": 12 },
+    { "id": "left_kiwi", "text": "Kiwi", "number": 8 }
+  ],
+  "rightItems": [
+    { "id": "right_falcon", "text": "Falcon", "number": 22 },
+    { "id": "right_wolf", "text": "Wolf", "number": 6 },
+    { "id": "right_bear", "text": "Bear", "number": 41 },
+    { "id": "right_fox", "text": "Fox", "number": 15 }
+  ]
+}
